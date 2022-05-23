@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vaibhav 
 - 👀 I’m interested in  Data
 - 🌱 I’m currently learning Microsoft Azure  and Tensorflow
-- 💞️ I’m looking to collaborate on Kaggle Compeditions
 - 📫 You can reach me on [Email](vaibhavdutta199@gmail.com)
 
 <!---
